@@ -395,6 +395,11 @@ h2 {
     color: #000000;
 }
 
+.button-text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 .price-right {
     display: flex;
     flex-direction: column;
@@ -509,6 +514,11 @@ h2 {
     background-color: #D6E7D2;
     border: none;
     box-shadow: -1px 3px 5px 1px rgba(0, 0, 0, .3);
+}
+
+.city {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .city-button-down {
